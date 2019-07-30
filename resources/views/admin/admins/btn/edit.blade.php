@@ -1,0 +1,1 @@
+<a href="{{ aurl('admin/'.$id.'/edit') }}" class="btn btn-info  center-block"><i class="fa fa-edit"></i></a>
